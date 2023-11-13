@@ -1,0 +1,8 @@
+function exponentiation(x: number, n: number): number {
+    return Math.pow(x, n);
+  }
+  
+  // Sample Test Cases
+  console.log(exponentiation(2, 3)) // 8 
+  console.log(exponentiation(7, 2)) // 49
+  
